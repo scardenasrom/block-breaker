@@ -9,8 +9,17 @@ public class GameManager : MonoBehaviour {
         SceneManager.LoadScene(sceneName);
     }
 
+    public void LoadNextScene() {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex + 1);
+    }
+
     public void QuitRequest() {
         Application.Quit();
+    }
+
+    public void BlockDestroyed() {
+
     }
 
 }

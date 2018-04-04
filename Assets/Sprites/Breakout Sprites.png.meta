@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 3eb41301349347249ad4b33e3f54563f
+timeCreated: 1522851681
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: breakout_sprites(no shadow)_0
+    21300002: breakout_sprites(no shadow)_1
+    21300004: breakout_sprites(no shadow)_2
+    21300006: breakout_sprites(no shadow)_3
+    21300008: breakout_sprites(no shadow)_4
+    21300010: breakout_sprites(no shadow)_5
+    21300012: breakout_sprites(no shadow)_6
+    21300014: breakout_sprites(no shadow)_7
+    21300016: breakout_sprites(no shadow)_8
+    21300018: breakout_sprites(no shadow)_9
+    21300020: breakout_sprites(no shadow)_10
+    21300022: breakout_sprites(no shadow)_11
+    21300024: breakout_sprites(no shadow)_12
+    21300026: breakout_sprites(no shadow)_13
+    21300028: breakout_sprites(no shadow)_14
+    21300030: breakout_sprites(no shadow)_15
+    21300032: breakout_sprites(no shadow)_16
+    21300034: breakout_sprites(no shadow)_17
+    21300036: breakout_sprites(no shadow)_18
+    21300038: breakout_sprites(no shadow)_19
+    21300040: breakout_sprites(no shadow)_20
+    21300042: breakout_sprites(no shadow)_21
+    21300044: breakout_sprites(no shadow)_22
+    21300046: breakout_sprites(no shadow)_23
+    21300048: breakout_sprites(no shadow)_24
+    21300050: breakout_sprites(no shadow)_25
+    21300052: breakout_sprites(no shadow)_26
+    21300054: breakout_sprites(no shadow)_27
+    21300056: breakout_sprites(no shadow)_28
+    21300058: breakout_sprites(no shadow)_29
+    21300060: breakout_sprites(no shadow)_30
+    21300062: breakout_sprites(no shadow)_31
+    21300064: breakout_sprites(no shadow)_32
+    21300066: breakout_sprites(no shadow)_33
+    21300068: breakout_sprites(no shadow)_34
+    21300070: breakout_sprites(no shadow)_35
+    21300072: breakout_sprites(no shadow)_36
+    21300074: breakout_sprites(no shadow)_37
+    21300076: breakout_sprites(no shadow)_38
+    21300078: breakout_sprites(no shadow)_39
+    21300080: breakout_sprites(no shadow)_40
+    21300082: breakout_sprites(no shadow)_41
+    21300084: breakout_sprites(no shadow)_42
+    21300086: breakout_sprites(no shadow)_43
+    21300088: breakout_sprites(no shadow)_44
+    21300090: Paddle Small
+    21300092: breakout_sprites(no shadow)_46
+    21300094: Paddle Medium
+    21300096: Ball
+    21300098: Paddle Big
+    21300100: breakout_sprites(no shadow)_50
+    21300102: breakout_sprites(no shadow)_51
+    21300104: breakout_sprites(no shadow)_52
+    21300106: breakout_sprites(no shadow)_53
+    21300108: breakout_sprites(no shadow)_54
+    21300110: breakout_sprites(no shadow)_55
+    21300112: breakout_sprites(no shadow)_56
+    21300114: breakout_sprites(no shadow)_57
+    21300116: breakout_sprites(no shadow)_58
+    21300118: breakout_sprites(no shadow)_59
+    21300120: breakout_sprites(no shadow)_60
+    21300122: breakout_sprites(no shadow)_61
+    21300124: breakout_sprites(no shadow)_62
+    21300126: breakout_sprites(no shadow)_63
+    21300128: breakout_sprites(no shadow)_64
+    21300130: breakout_sprites(no shadow)_65
+    21300132: breakout_sprites(no shadow)_66
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paddle Small
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 98
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddle Medium
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ball
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paddle Big
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 136
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: breakout_sprites(no shadow)_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 89
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
