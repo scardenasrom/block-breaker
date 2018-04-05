@@ -8,6 +8,8 @@ public class Block : MonoBehaviour {
     public Sprite twoHitsSprite;
     public Sprite threeHitsSprite;
     public int currentHP = 1;
+    public GameObject smokeParticle;
+    public Color smokeColor = new Color(0f, 0f, 0f);
 
     public static int breakableBricksCount = 0;
 
@@ -64,6 +66,9 @@ public class Block : MonoBehaviour {
     void HandleHit() {
         currentHP--;
         if (currentHP <= 0) {
+            GameObject smokeInstance = GameObject.Instantiate(smokeParticle, this.transform.position, Quaternion.identity);
+            var main = smokeInstance.GetComponent<ParticleSystem>().main;
+            main.startColor = smokeColor;
             breakableBricksCount--;
             if (breakableBricksCount <= 0) {
                 gameManager.LoadNextScene();

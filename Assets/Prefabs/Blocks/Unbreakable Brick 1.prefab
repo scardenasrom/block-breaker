@@ -82,6 +82,9 @@ MonoBehaviour:
   twoHitsSprite: {fileID: 0}
   threeHitsSprite: {fileID: 0}
   currentHP: 1
+  smokeParticle: {fileID: 1653392216179372, guid: 6d9f03988ed64bb47854a809fd9a1166,
+    type: 2}
+  smokeColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!212 &212597746733358322
 SpriteRenderer:
   m_ObjectHideFlags: 1
